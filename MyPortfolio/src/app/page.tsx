@@ -21,11 +21,11 @@ export default function Home() {
             <Skills data={portfolioData.skillsCategories} />
             <Projects data={portfolioData.projects} />
             <Achievements data={portfolioData.achievements} />
-            <Contact
+            {/* <Contact
                 email={portfolioData.personalInfo.email}
                 phone={portfolioData.personalInfo.phone}
                 location={portfolioData.personalInfo.location}
-            />
+            /> */}
             <Footer data={portfolioData.footer} />
             <BackToTop />
         </>
