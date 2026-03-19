@@ -48,7 +48,7 @@ export default function Hero({ data }: HeroProps) {
                     <a href="#contact" className="btn">
                         Get in Touch
                     </a>
-                    <a href="#" className="btn">
+                    <a href="/Fredrick_George_F_Resume.pdf" download className="btn">
                         Download Resume
                     </a>
                 </div>
