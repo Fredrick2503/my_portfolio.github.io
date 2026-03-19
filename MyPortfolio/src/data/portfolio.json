@@ -1,0 +1,171 @@
+{
+  "personalInfo": {
+    "name": "Fredrick George F",
+    "title": "Backend Developer & Data Science",
+    "subtitle": "CS Undergraduate • Backend Developer",
+    "tagline": "Data Science • Backend Architecture",
+    "description": "Innovative Computer Science undergraduate specializing in rigorous Backend Architecture and Data Science. Engineering strictly layered, ACID-compliant systems prioritizing SOLID principles, clean separation of concerns, and maintainability.",
+    "email": "fredrick.george.f.25@gmail.com",
+    "phone": "+91 8792938911",
+    "location": "Bengaluru, India"
+  },
+  "about": {
+    "heading": "Backend Developer passionate about clean architecture and scalable systems",
+    "paragraphs": [
+      "I'm a Computer Science undergraduate at <span class=\"about-highlight\">New Horizon College of Engineering</span> with a CGPA of <span class=\"about-highlight\">8.88/10.0</span>, specializing in Data Science and Backend Development.",
+      "My approach combines deep technical expertise in <span class=\"about-highlight\">SOLID principles</span>, <span class=\"about-highlight\">ACID transactions</span>, and <span class=\"about-highlight\">layered architecture</span> with a passion for structured software engineering and disciplined debugging over feature-driven coding.",
+      "I focus on building enterprise-grade systems with clean separation of concerns, ensuring every line of code is maintainable, scalable, and follows industry best practices."
+    ],
+    "stats": [
+      {
+        "value": "8.88",
+        "label": "CGPA / 10.0"
+      },
+      {
+        "value": "4+",
+        "label": "Projects"
+      },
+      {
+        "value": "5+",
+        "label": "Certifications"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.E. Computer Science (Data Science)",
+        "school": "New Horizon College of Engineering",
+        "details": "2023 – 2027 • Bengaluru • CGPA: 8.88/10.0"
+      },
+      {
+        "degree": "Pre-University Course (PUC)",
+        "school": "St. Francis Composite PU College",
+        "details": "2022 – 2023 • Koramangala • 88.5%"
+      },
+      {
+        "degree": "Secondary School (SSLC)",
+        "school": "St. Francis High School",
+        "details": "2020 – 2021 • Koramangala • 96.48%"
+      }
+    ]
+  },
+  "skillsCategories": [
+    {
+      "title": "Languages",
+      "items": [
+        { "name": "Java", "icon": "fa-brands fa-java" },
+        { "name": "Python", "icon": "fa-brands fa-python" },
+        { "name": "SQL", "icon": "fa-solid fa-database" },
+        { "name": "JavaScript", "icon": "fa-brands fa-js" }
+      ]
+    },
+    {
+      "title": "Architecture & Concepts",
+      "items": [
+        { "name": "SOLID Principles", "icon": "fa-solid fa-cubes" },
+        { "name": "ACID Transactions", "icon": "fa-solid fa-check-double" },
+        { "name": "Layered Design", "icon": "fa-solid fa-layer-group" },
+        { "name": "Generative AI", "icon": "fa-solid fa-brain" }
+      ]
+    },
+    {
+      "title": "Tools & Frameworks",
+      "items": [
+        { "name": "Next.js", "icon": "fa-brands fa-react" },
+        { "name": "React.js", "icon": "fa-brands fa-react" },
+        { "name": "Node.js", "icon": "fa-brands fa-node-js" },
+        { "name": "Supabase", "icon": "fa-solid fa-server" },
+        { "name": "JDBC", "icon": "fa-solid fa-plug" },
+        { "name": "PostgreSQL", "icon": "fa-solid fa-elephant" },
+        { "name": "MongoDB", "icon": "fa-solid fa-leaf" },
+        { "name": "JWT", "icon": "fa-solid fa-key" },
+        { "name": "Git", "icon": "fa-brands fa-git-alt" },
+        { "name": "WebSockets", "icon": "fa-solid fa-network-wired" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "date": "Mar 2026 – Present",
+      "title": "Enterprise Student Management System",
+      "type": "Layered Architecture",
+      "typeIcon": "fa-solid fa-layer-group",
+      "description": [
+        "Architected a strictly layered backend to master enterprise system design, enforcing SOLID principles and pure JDBC for manual ACID transaction control",
+        "Integrated SLF4J for systematic debugging and Springdoc OpenAPI for comprehensive architectural documentation"
+      ],
+      "tech": ["Java", "JDBC", "PostgreSQL", "SLF4J", "OpenAPI"]
+    },
+    {
+      "date": "Mar 2026",
+      "title": "PlacementPulse",
+      "type": "Full-Stack AI Platform",
+      "typeIcon": "fa-solid fa-brain",
+      "description": [
+        "Developed a Next.js and Supabase interview prep app, integrating Gemini AI to autonomously generate daily, dynamic problem sets (DSA, Aptitude, Core CS)",
+        "Engineered a mobile-first UI with centralized state gamification and custom concurrency guards to resolve touch conflicts between swipe and scroll events"
+      ],
+      "tech": ["Next.js", "Supabase", "Gemini AI", "React"]
+    },
+    {
+      "date": "Oct 2025 – Dec 2025",
+      "title": "Farm2Biz B2B Marketplace",
+      "type": "Full-Stack Web Application",
+      "typeIcon": "fa-solid fa-cart-shopping",
+      "description": [
+        "Built a B2B platform with RESTful APIs to streamline agricultural supply chains, manage dynamic order routing, and facilitate secure transactions",
+        "Empowered local farmers to achieve higher profit margins by bypassing middlemen and connecting directly with commercial buyers via a custom dashboard"
+      ],
+      "tech": ["React.js", "Node.js", "MongoDB", "REST API"]
+    },
+    {
+      "date": "Nov 2025 – Dec 2025",
+      "title": "QR-Auth System",
+      "type": "Security & WebSockets",
+      "typeIcon": "fa-solid fa-shield-halved",
+      "description": [
+        "Architected a real-time, passwordless login flow using WebSockets and JWT for secure cross-device token validation, eliminating static credential risks"
+      ],
+      "tech": ["Node.js", "JWT", "WebSockets", "Security"]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Hackathon Finalist",
+      "description": "Top finalist in a national-level coding hackathon for designing a scalable solution in data analytics",
+      "icon": "fa-solid fa-trophy"
+    },
+    {
+      "title": "Innovation Ambassador",
+      "description": "Completed 30 hours of formal training in design thinking and the innovation lifecycle",
+      "org": "MoE's Innovation Cell & AICTE • Mar 2026",
+      "icon": "fa-solid fa-lightbulb"
+    },
+    {
+      "title": "Generative AI Studio",
+      "description": "Industry-aligned certification in Generative AI technologies and applications",
+      "org": "Google & Simplilearn • Jul 2025",
+      "icon": "fa-solid fa-robot"
+    },
+    {
+      "title": "Python Essentials 1",
+      "description": "Verified Python programming certification",
+      "org": "Cisco • Jul 2025",
+      "icon": "fa-brands fa-python"
+    },
+    {
+      "title": "FantomCode '25",
+      "description": "Hackathon participant showcasing problem-solving skills",
+      "org": "RVITM • May 2025",
+      "icon": "fa-solid fa-code"
+    }
+  ],
+  "footer": {
+    "description": "CS Undergraduate specializing in Backend Architecture and Data Science. Building enterprise-grade systems with clean code and structured engineering principles.",
+    "socialLinks": [
+      { "name": "LinkedIn", "url": "#", "icon": "fa-brands fa-linkedin-in" },
+      { "name": "GitHub", "url": "#", "icon": "fa-brands fa-github" },
+      { "name": "Portfolio", "url": "#", "icon": "fa-solid fa-globe" },
+      { "name": "Email", "url": "mailto:fredrick.george.f.25@gmail.com", "icon": "fa-solid fa-envelope" }
+    ]
+  }
+}
