@@ -53,7 +53,7 @@ export default function Hero({ data }: HeroProps) {
                     </a>
                 </div>
             </div>
-            <div className="scroll-indicator">
+            <div className="scroll-indicator !hidden md:!flex">
                 <span>Scroll</span>
                 <div className="scroll-line"></div>
             </div>
