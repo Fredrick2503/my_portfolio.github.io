@@ -12,13 +12,13 @@
   "about": {
     "heading": "Backend Developer passionate about clean architecture and scalable systems",
     "paragraphs": [
-      "I'm a Computer Science undergraduate at <span class=\"about-highlight\">New Horizon College of Engineering</span> with a CGPA of <span class=\"about-highlight\">8.88/10.0</span>, specializing in Data Science and Backend Development.",
+      "I'm a Computer Science undergraduate at <span class=\"about-highlight\">New Horizon College of Engineering</span> with a CGPA of <span class=\"about-highlight\">8.62/10.0</span>, specializing in Data Science and Backend Development.",
       "My approach combines deep technical expertise in <span class=\"about-highlight\">SOLID principles</span>, <span class=\"about-highlight\">ACID transactions</span>, and <span class=\"about-highlight\">layered architecture</span> with a passion for structured software engineering and disciplined debugging over feature-driven coding.",
       "I focus on building enterprise-grade systems with clean separation of concerns, ensuring every line of code is maintainable, scalable, and follows industry best practices."
     ],
     "stats": [
       {
-        "value": "8.88",
+        "value": "8.62",
         "label": "CGPA / 10.0"
       },
       {
