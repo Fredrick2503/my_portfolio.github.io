@@ -162,9 +162,9 @@
   "footer": {
     "description": "CS Undergraduate specializing in Backend Architecture and Data Science. Building enterprise-grade systems with clean code and structured engineering principles.",
     "socialLinks": [
-      { "name": "LinkedIn", "url": "#", "icon": "fa-brands fa-linkedin-in" },
-      { "name": "GitHub", "url": "#", "icon": "fa-brands fa-github" },
-      { "name": "Portfolio", "url": "#", "icon": "fa-solid fa-globe" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/fredrick-george-f/", "icon": "fa-brands fa-linkedin-in" },
+      { "name": "GitHub", "url": "https://github.com/Fredrick2503/", "icon": "fa-brands fa-github" },
+      { "name": "Portfolio", "url": "https://my-portfolio-fredrick-george-fs-projects.vercel.app/", "icon": "fa-solid fa-globe" },
       { "name": "Email", "url": "mailto:fredrick.george.f.25@gmail.com", "icon": "fa-solid fa-envelope" }
     ]
   }
